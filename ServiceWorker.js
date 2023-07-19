@@ -1,9 +1,9 @@
 const cacheName = "_syska-_syska-0.1";
 const contentToCache = [
-    "Build/syska_.loader.js",
-    "Build/syska_.framework.js",
-    "Build/syska_.data",
-    "Build/syska_.wasm",
+    "Build/[Project] syska_app_build.loader.js",
+    "Build/[Project] syska_app_build.framework.js",
+    "Build/[Project] syska_app_build.data",
+    "Build/[Project] syska_app_build.wasm",
     "TemplateData/style.css"
 
 ];
